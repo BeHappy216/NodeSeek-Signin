@@ -104,4 +104,4 @@ docker run -itd --name cloudfreed -p 3000:3000 \
 
 ## ⚠️ 免责声明
 
-本项目仅供学习交流使用，请遵守 NodeSeek 论坛的相关规定和条款。
+本项目仅供学习交流使用，请遵守 NodeSeek 论坛的相关规定和条款。.
